@@ -1,2 +1,123 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<html>
+ <head>
+<link type="text/css" rel="stylesheet" href="https://www.dropbox.com/s/trsldt0me90jzs8/resume.css"/>
+<title></title> 
+</head>
+<body>
+<div id="header">
+<p id="name">  ALSHIMA AHMED ALSHAIN ALWALI</p>
+         <p id="email">  shima.alwali@gmail.com</p>
+     </div>
+
+     <img src=  "  profile pic.png" alt="profile pic">
+     <div class="left">
+     </div>
+     <div class="right">
+            <h3>About
+</h3>
+            <p>
+            <ul>
+                <li>Currently doing MSc – Electrical Engineering (Computer Engineering Option). </li>
+                <li>Interested in research and development because I firmly believe it is the key to future progress and renaissance. In addition I believe that the research scientific methodology suits me perfectly, because of my natural passion for understanding problems from different angles before coming up with solutions.</li>
+                <li>Work on a better me and try to make the world a better place.</li>
+                </ul>
+            </p>
+            <h3>Professional Experience</h3>
+            <h4 id="company-name"> Alzaiem Alazhari University</h4>
+            <p id="job-title"><strong>Graduate Teaching Assistant</strong></p>
+            <p id="job-responsibilities">Job Responsbilities</p>
+            <p>
+            <ul>
+                
+                <li> Reinforce lessons by tutoring individual students or small groups. Creates lesson plans, documenting progress, overseeing lesson preparations, writing quizzes and assigning homework. Moreover, she records grades and inform students of their final grades</li>
+<li>Assist undergraduate students with their graduation projects,by helping them select a suitable topic or choosing the appropriate methodology for their projects. </li>
+            </ul>
+            </p>
+            <h3>Educational Qualifications</h3>
+            <table>
+                <tr id="heading">
+                    <td>Qualification</td>
+                    
+                   
+                    
+                <tr>
+                    <td>MSc.Compputer Architecture & Networks, University of Khartoum, 2022.</td>
+                    
+                </tr>
+                <tr>
+                    <td>BSc.Computer Engineering, Alzaiem Alazhari University, 2015.</td>
+                    
+                </tr>
+                
+            </table>
+            <h3>Independent Courses</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Introduction to the internet of things and Embedded systems, University of California, Irvine.
+
+.</span> </li>
+                <li>
+                <span id="course-name">Sensors and Sensor Circuit Design, University of Colorado Boluder. </span> </li>
+                <li>
+                <span id="course-name">Computer Maintenance, Sudacad Telecommunications Academy</span> </li>
+                
+            </ul>
+            <h3>Industry Knowledge</h3>
+            <p>
+            <ul>
+                <li> <span id="course-name">C & C++ programming language.</span> </li>
+                <li>
+                <span id="course-name">VLSI: Very-large-scale integration</span> </li>
+                <li>
+                <span id="course-name">IoT: Internet Of Things.</span></li>
+                <li> <span id="course-name">Research and development. </span> </li>
+                <li> <span id="course-name"> Project planning.</span> </li>
+                </ul>
+            </p>
+
+
+          
+            <h3>Skills</h3>
+            <p>
+            <ul>
+                <li>  Able to work with group, Flexible & very understandable. </li>
+
+ <li>Take responsibilities seriously & get them achieved with the exact deadline, good at planning & control the sudden changes.</li>
+
+
+<li>Ability to learn things from scratch easily.</li>
+
+
+  <li>Excellent on dealing with hardware, software, and internet installation.</li>
+
+
+
+
+
+                <span id="course-name">Languages Known:</span>Arabic and English </li>
+                <li>
+                <span id="course-name">Hobbies:</span>Reading: (philosophy, Religions, Cosmic Physics and History)
+, Humanities, learn languages, Travelling, Programming, technology and meet people from other
+cultures.
+.</li> </ul>
+            </p>
+            <h3>  Expected developments  from the Robotics Dojo Program</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">The design of the robotic structure.
+
+</span></li>
+                <li>
+                <span id="course-name">The signals and the circuit design.</span></li>
+                <li>
+                <span id="course-name">Programming & Artificial intelligence.</span></li></ul>
+            </p>
+            
+     </div>
+     <div id="footer"></div>
+    </body>
+</html>
